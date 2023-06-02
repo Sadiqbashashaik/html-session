@@ -37,5 +37,12 @@ learning html
     <td>activity-6</td>
     <td>inserting the icon using link tag</td>
   </tr>
-  </table>
-  
+   <tr>
+    <td>7</td>
+    <td>activity-7</td>
+    <td>titile for web document</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>activity-8</td>
+    <td>creating internal style sheet</td> 
