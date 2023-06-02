@@ -32,5 +32,10 @@ learning html
     <td>activity-5</td>
     <td>creating external css,and linking with link tag</td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>activity-6</td>
+    <td>inserting the icon using link tag</td>
+  </tr>
   </table>
   
