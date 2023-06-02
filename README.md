@@ -67,6 +67,11 @@ learning html
     <td>activity-12</td>
     <td>html entites & html comments</td> 
     </tr>
+    tr>
+    <td>13</td>
+    <td>activity-13</td>
+    <td>creating table for my frnds</td> 
+    </tr>
     
 
     </table>
