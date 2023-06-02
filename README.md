@@ -62,5 +62,12 @@ learning html
     <td>activity-11</td>
     <td>anchor tags</td> 
     </tr>
+ <tr>
+    <td>12</td>
+    <td>activity-12</td>
+    <td>html entites & html comments</td> 
+    </tr>
+    
+
     </table>
 
