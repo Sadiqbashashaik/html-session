@@ -46,3 +46,12 @@ learning html
     <td>8</td>
     <td>activity-8</td>
     <td>creating internal style sheet</td> 
+    </tr>
+     <tr>
+    <td>9</td>
+    <td>activity-9</td>
+    <td>redirect your web document after 5 seconds to another website</td> 
+    </tr>
+    
+    </table>
+
